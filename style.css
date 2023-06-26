@@ -1,0 +1,17 @@
+:root {
+    --cor-do-texto: #FFFFFF;
+    --cor-do-botão: #167BF7;
+    --cor-vermelha-do-texto: #EC2F46;
+    --cor-do-texto-cinza: #C0C0C0;
+    --cor-do-fundo: #00030C;
+}
+
+body {
+    background-color: var(--cor-do-fundo);
+    color: var(--cor-do-texto);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
