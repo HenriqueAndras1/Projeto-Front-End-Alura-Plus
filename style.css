@@ -67,3 +67,25 @@ body {
 .container__caixa {
     margin: 0 6em;
 }
+
+.secundario__imagem {
+    width: 80%;
+
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 6em;
+    text-align: center;
+}
+
+.descricao__titulo {
+    font-weight: 700;
+    font-size: 50px;
+    color: var(--cor-do-texto);
+    margin-bottom: 10px;
+}
+
+.descricao__texto {
+    color: var(--cor-do-aviso-cinza);
+}
