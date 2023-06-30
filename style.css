@@ -110,3 +110,9 @@ body {
 .terciario {
     padding: 10em 6em;
 }
+
+.quaternario {
+    align-items: center;
+    margin: 0 6em;
+    text-align: center;
+}
