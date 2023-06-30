@@ -37,7 +37,7 @@ body {
     color: var(--cor-do-texto);
     border-radius: 15px;
     padding: 1em;
-    border: 1px solid red;
+    border: 2px solid red;
     display: block;
     text-decoration: none;
     text-align: center;
@@ -88,4 +88,25 @@ body {
 
 .descricao__texto {
     color: var(--cor-do-aviso-cinza);
+}
+
+.botao__terciario {
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.imagens__telas {
+    width: 100%;
+    align-items: center;
+    margin: 0em 2em;
+    
+}
+
+.container__descricao2 {
+    margin-top: 25%;
+    
+}
+
+.terciario {
+    padding: 10em 6em;
 }
