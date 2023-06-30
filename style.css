@@ -108,11 +108,33 @@ body {
 }
 
 .terciario {
-    padding: 10em 6em;
+    padding: 10em 6em 0em 6em;
 }
 
 .quaternario {
     align-items: center;
-    margin: 0 6em;
+    margin: -6em 6em 0em 6em;
     text-align: center;
+}
+
+.dispositivos__lista {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.dispositivos {
+    text-align: center;
+    margin: 6em 0em;
+}
+
+.dispositivos__titulo {
+    font-size: 48px;
+    color: var(--cor-do-texto);
+    margin: 1em;
+}
+
+.lista__item{
+    font-size: 32px;
+    color: var(--cor-do-texto);
 }
